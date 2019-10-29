@@ -1,0 +1,19 @@
+{
+  "name": "root_splash",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/drexel-ue/root_splash.git"
+  },
+  "author": "IKesh Pack <packappsforyou@gmail.com>",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/drexel-ue/root_splash/issues"
+  },
+  "homepage": "https://github.com/drexel-ue/root_splash#readme"
+}
